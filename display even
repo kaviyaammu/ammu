@@ -1,0 +1,15 @@
+#include<stdio.h>
+int main(void)
+{
+int a,b;
+scanf("%d",&a);
+scanf("%d",&b);
+for(i%2!=0)
+{
+prinf("%d",i);
+}
+else
+{
+printf("\n");
+}
+}
